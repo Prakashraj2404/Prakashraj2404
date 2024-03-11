@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React, Python, Mysql,**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React, Python, Mysql and Django**
 
 - 📫 How to reach me **prakashmadhaiyan02@gmail.com**
 
